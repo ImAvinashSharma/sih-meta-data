@@ -19,7 +19,6 @@ db = [
     Image: "More images"
   },
   {
-    "SL. No.": "N-AP-129",
     name: "Thousand Pillar Temple",
     Location: "Hanamkonda",
     Address: "",
@@ -28,7 +27,6 @@ db = [
     Image: ""
   },
   {
-    "SL. No.": "N-AP-130",
     name: "Ramappa Temple",
     Location: "Palampet",
     Address: "",
@@ -37,7 +35,6 @@ db = [
     Image: ""
   },
   {
-    "SL. No.": "N-AP-131",
     name: "Warangal Fort, and Gateways",
     Location: "Warangal",
     Address: "",
@@ -46,7 +43,6 @@ db = [
     Image: ""
   },
   {
-    "SL. No.": "N-AP-132",
     name: "Pillalamarri Temple",
     Location: "Pillalamarri",
     Address: "",
