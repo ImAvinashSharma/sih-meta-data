@@ -19,6 +19,7 @@ db = [
     Image: "More images"
   },
   {
+    id : 5,
     name: "Thousand Pillar Temple",
     Location: "Hanamkonda",
     Address: "",
