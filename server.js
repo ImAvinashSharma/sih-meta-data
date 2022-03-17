@@ -19,6 +19,7 @@ db = [
     Image: "More images"
   },
   {
+    id : 5,
     name: "Thousand Pillar Temple",
     Location: "Hanamkonda",
     Address: "",
@@ -27,6 +28,7 @@ db = [
     Image: ""
   },
   {
+    id : 6,
     name: "Ramappa Temple",
     Location: "Palampet",
     Address: "",
@@ -35,6 +37,7 @@ db = [
     Image: ""
   },
   {
+    id : 7,
     name: "Warangal Fort, and Gateways",
     Location: "Warangal",
     Address: "",
@@ -43,6 +46,7 @@ db = [
     Image: ""
   },
   {
+    id : 8,
     name: "Pillalamarri Temple",
     Location: "Pillalamarri",
     Address: "",
@@ -53,7 +57,7 @@ db = [
 ];
 
 app.listen(3001, () => {
-  console.log(3000);
+  console.log(3000+"bhjvbhjbhj");
 });
 
 app.get("/", (req, res) => {
